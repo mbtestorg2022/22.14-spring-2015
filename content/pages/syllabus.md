@@ -40,27 +40,253 @@ This course will have a three-hour, closed book final exam. Students may bring o
 
 This course has two types of graded assignments: Problem sets (totaling 40%) and a final exam (40%). In addition, class participation counts for 20% of your final grade. This 20% class participation will be generously given, it is designed to get each and every one of you to talk and try worked problems during class. The final grade breakdown for the course is as follows:
 
-| ASSIGNMENTS | TOTAL GRADE PERCENTAGES | HOW GRADED |
-| --- | --- | --- |
-| In-Class Participation | 20% | Subjective, generous |
-| Problem Sets (3–4) | 10% each | Absolute scale, 0–100 |
-| Oral Exams (1–2) | 10% each | Absolute scale, 0–100 |
-| Final Exam | 40% | Absolute scale, 0–100 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+TOTAL GRADE PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+HOW GRADED
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+Subjective, generous
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets (3–4)
+{{< tdclose >}}
+{{< tdopen >}}
+10% each
+{{< tdclose >}}
+{{< tdopen >}}
+Absolute scale, 0–100
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Exams (1–2)
+{{< tdclose >}}
+{{< tdopen >}}
+10% each
+{{< tdclose >}}
+{{< tdopen >}}
+Absolute scale, 0–100
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+{{< tdopen >}}
+Absolute scale, 0–100
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Schedule
 --------------
 
-| SES # | THEMES | TOPICS | DUE |
-| --- | --- | --- | --- |
-| 1 | _Overview_ | Survey of Material Selection in Nuclear Systems | n/a |
-| 2 | _The Language of Materials Science_ | Symmetry, Miller Indices | n/a |
-| 3 | Crystal Structures, Bravais Lattices, Space Groups | Problem Set 1 |
-| 4 | _Thermodynamics_ | Phase Diagrams, Phase Transformations | Problem Set 2 |
-| 5 | Free Energy Origins of Phase Diagrams | n/a |
-| 6 | _Material Deformation and Failure_ | Free Energy (cont.), Point Defects | n/a |
-| 7 | Dislocations, 2D & 3D Defects | Problem Set 3 |
-| 8 | Stress, Strain, Plasticity, Creep, Fracture, Failure | n/a |
-| 9 | _Radiation Damage and Effects_ | Stopping Power, Radiation Damage, DPA | n/a |
-| 10 | Displacement Rates, Radiation Point Defect Kinetics | Oral Exam |
-| 11 | Radiation Effects in Materials, Fuels | n/a |
-| 12 | Recap Nuclear Material Choices in Systems | Problem Set 4
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+THEMES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_Overview_
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of Material Selection in Nuclear Systems
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_The Language of Materials Science_
+{{< tdclose >}}
+{{< tdopen >}}
+Symmetry, Miller Indices
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal Structures, Bravais Lattices, Space Groups
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Thermodynamics_
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Diagrams, Phase Transformations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Free Energy Origins of Phase Diagrams
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Material Deformation and Failure_
+{{< tdclose >}}
+{{< tdopen >}}
+Free Energy (cont.), Point Defects
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dislocations, 2D & 3D Defects
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Stress, Strain, Plasticity, Creep, Fracture, Failure
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Radiation Damage and Effects_
+{{< tdclose >}}
+{{< tdopen >}}
+Stopping Power, Radiation Damage, DPA
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Displacement Rates, Radiation Point Defect Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Effects in Materials, Fuels
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Recap Nuclear Material Choices in Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
